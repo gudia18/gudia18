@@ -5,13 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gudia18&label=Profile%20views&color=0e75b6&style=flat" alt="gudia18" /> </p>
 
-- 🔭 I’m currently working on **PID algorithm for line tracer**
+- 🔭 I’m currently working on **PERN STACK**
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **linux**
-
-- 🤝 I’m looking for help with **robocon**
+- 🤝 I’m looking for help with **Tech Skills**
 
 - 📫 How to reach me **sgudia879@gmail.com**
 
@@ -19,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gudia rani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gudia rani" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gudia-rani-91b55425b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gudia rani" height="30" width="40" /></a>
 <a href="https://instagram.com/sharma_s_gudia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharma_s_gudia" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sgudia879" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sgudia879" height="30" width="40" /></a>
 </p>
