@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sgudia879@gmail.com**
 
-- ⚡ Fun fact:-**I've mastered the art of turning coffee into code, one sip at a time. ☕💻**
+- ⚡ Fun fact :- **I've mastered the art of turning coffee into code, one sip at a time. ☕💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
