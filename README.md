@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **PERN STACK**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **socket.io**
 
-- 🤝 I’m looking for help with **Tech Skills**
+- 🤝 I’m looking for help with **Mocha**
 
 - 📫 How to reach me **sgudia879@gmail.com**
 
