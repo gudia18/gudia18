@@ -13,13 +13,12 @@
 
 - 📫 How to reach me **sgudia879@gmail.com**
 
-- ⚡ Fun fact **I am enthusiast**
+- ⚡ Fun fact **I've mastered the art of turning coffee into code, one sip at a time. ☕💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/gudia-rani-91b55425b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gudia rani" height="30" width="40" /></a>
 <a href="https://instagram.com/sharma_s_gudia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharma_s_gudia" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sgudia879" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sgudia879" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
