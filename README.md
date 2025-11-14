@@ -9,7 +9,6 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 📫 How to reach me **sgudia879@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
