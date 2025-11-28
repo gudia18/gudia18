@@ -1,5 +1,4 @@
 
-<img src="https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=2000&auto=format&fit=crop&ixlib=rb-4.0.3&s=0c2f3d2d2f6b2f4d2a3a6b6d3b1f0a1c" alt="banner" width="100%" style="border-radius:12px; margin-bottom:16px"/>
 
 <h1 style="margin:8px 0">Hi 👋, I'm Gudia</h1>
 <h3 style="margin:4px 0; font-weight:500; color:#9BA3B2">Aspiring Tech Enthusiast · Frontend & MERN</h3>
