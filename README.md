@@ -1,7 +1,7 @@
 
 
 <h1 style="margin:8px 0">Hi 👋, I'm Gudia</h1>
-<h3 style="margin:4px 0; font-weight:500; color:#9BA3B2">Aspiring Tech Enthusiast · MERN</h3>
+<h3 style="margin:4px 0; font-weight:500; color:#9BA3B2">Aspiring Tech Enthusiast - MERN</h3>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=gudia18&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
