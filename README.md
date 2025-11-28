@@ -1,16 +1,13 @@
 
 
 <h1 style="margin:8px 0">Hi 👋, I'm Gudia</h1>
-<h3 style="margin:4px 0; font-weight:500; color:#9BA3B2">Aspiring Tech Enthusiast · Frontend & MERN</h3>
+<h3 style="margin:4px 0; font-weight:500; color:#9BA3B2">Aspiring Tech Enthusiast · MERN</h3>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=gudia18&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="center" style="margin-top:8px;">
-  <a href="https://www.linkedin.com/in/gudia18" target="_blank" rel="noreferrer">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
   <a href="https://github.com/gudia18" target="_blank" rel="noreferrer">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
