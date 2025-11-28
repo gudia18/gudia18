@@ -1,59 +1,66 @@
-# Hi 👋, I'm Gudia
-### Aspiring Tech Enthusiast 👩‍💻 · Frontend & MERN
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=gudia18&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<img src="https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=2000&auto=format&fit=crop&ixlib=rb-4.0.3&s=0c2f3d2d2f6b2f4d2a3a6b6d3b1f0a1c" alt="banner" width="100%" style="border-radius:12px; margin-bottom:16px"/>
 
----
-
-## 🔭 Current
-- Working on **React.js** projects and building MERN applications.
-- Actively contributing to open-source and personal projects.
-
----
-
-## 🛠️ Skills & Tools
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="36" height="36"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="36" height="36"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="36" height="36"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="36" height="36"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="36" height="36"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="36" height="36"/>
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats (Improved Accuracy)
+<h1 style="margin:8px 0">Hi 👋, I'm Gudia</h1>
+<h3 style="margin:4px 0; font-weight:500; color:#9BA3B2">Aspiring Tech Enthusiast · Frontend & MERN</h3>
 
 <p>
-  <img align="left" src="https://github-readme-stats-teal-mu-56.vercel.app/api/top-langs?username=gudia18&layout=compact&count_private=true&include_all_commits=true&include_orgs=true" alt="Top Languages" />
+  <img src="https://komarev.com/ghpvc/?username=gudia18&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats-teal-mu-56.vercel.app/api?username=gudia18&show_icons=true&count_private=true&include_all_commits=true&include_orgs=true&locale=en" alt="Gudia's GitHub Stats" />
+<p align="center" style="margin-top:8px;">
+  <a href="https://www.linkedin.com/in/gudia18" target="_blank" rel="noreferrer">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/gudia18" target="_blank" rel="noreferrer">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://leetcode.com/gudia18" target="_blank" rel="noreferrer">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+  </a>
+  <a href="mailto:gsharma3118@gmail.com" target="_blank" rel="noreferrer">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
 
+</div>
 
 ---
 
+## 👩‍💻 About Me
+Hey! I’m Gudia, a developer who loves building meaningful products and improving user experiences using modern web technologies.
+
+- SDE Intern @ Flipkart → built an internal tool that reduced API testing time from **days to minutes**  
+- QA Intern @ Accops → automated real-world testing workflows with Selenium
+- MERN developer → passionate about React, Node, Express, MongoDB  
+- Strong foundation in DSA, DBMS, Operating Systems & Networks, Computer Networks and Security  
+- Hackathon & open-source enthusiast  
+- Always exploring new ideas, creating impact, and learning every single day
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,redux,nodejs,express,mongodb,html,css,git,github," alt="skills" />
+</p>
+
+---
+
+## 📊 GitHub Stats 
+<p align="center">
+  <img src="https://github-readme-stats-teal-mu-56.vercel.app/api?username=gudia18&show_icons=true&count_private=true&include_all_commits=true&include_orgs=true&theme=dark" alt="Gudia's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-teal-mu-56.vercel.app/api/top-langs?username=gudia18&layout=compact&hide=cpp&count_private=true&include_all_commits=true&include_orgs=true&theme=dark" alt="Top Languages" />
+</p>
+
+---
+
+## 📅 Contribution Calendar
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gudia18&theme=dark" alt="Streak Stats" />
+</p>
+
+---
 
