@@ -13,8 +13,6 @@
 ## 👩‍💻 About Me
 Hey! I’m Gudia, a developer who loves building meaningful products and improving user experiences using modern web technologies.
 
-- SDE Intern @ Flipkart → built an internal tool that reduced API testing time from **days to minutes**  
-- QA Intern @ Accops → automated real-world testing workflows with Selenium
 - MERN developer → passionate about React, Node, Express, MongoDB  
 - Strong foundation in DSA, DBMS, Operating Systems & Networks, Computer Networks and Security  
 - Hackathon & open-source enthusiast  
